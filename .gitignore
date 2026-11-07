@@ -1,0 +1,7 @@
+/.fleet
+/.idea
+/.vscode
+/build
+*.tmp
+*.bak
+*.swp
