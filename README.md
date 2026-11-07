@@ -1,6 +1,6 @@
 ## My scripts
 
-This repo contains some Linux scripts that I use from time to time.
+This repo contains some LMDE Linux scripts that I use from time to time.
 
 ## License
 
