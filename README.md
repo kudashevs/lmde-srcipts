@@ -4,4 +4,4 @@ This repo contains some LMDE Linux scripts that I use from time to time.
 
 ## License
 
-The MIT License (MIT). Please see the [License file](LICENSE.md) for more information.
+The MIT License (MIT). Please see the [License file](LICENSE) for more information.
